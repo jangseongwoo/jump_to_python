@@ -1,2 +1,18 @@
 # jump_to_python
-This is a repository where leave a code that i'm type while learning Jump to Python.
+
+이 저장소는 점프 투 파이썬((https://wikidocs.net/)의 사이트를 통해 배우면서 정리한 소스코드를 남기기 위해 만들었다.
+
+목표
+점프 투 파이썬의 처음부터 끝까지 일독을 해 파이썬의 능력을 향상시킨다.
+
+To-do
+* 1장부터 마지막장까지 일독을 한다.
+* 익숙한 내용은 제외하고 모르는 내용 혹은 익숙하지 않는 문법에 대해서는 직접 타이핑을 한다.
+* 타이핑한 소스코드를 깃에 업로드해 남겨놓는다.
+
+결과물
+github repository의 소스코드
+
+다음 목표: 이 책을 완료한 후에 토이프로젝트를 진행하려고 한다.
+
+
