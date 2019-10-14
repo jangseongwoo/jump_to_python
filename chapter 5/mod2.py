@@ -4,5 +4,7 @@ class Math:
     def solve(self, r):
         return r * PI
 
-def add(a, b):
-    return a + b
+    def add(a, b):
+        return a + b
+
+    
