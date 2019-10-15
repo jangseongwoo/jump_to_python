@@ -1,1 +1,0 @@
-source /Users/st/Desktop/chalice_image_rotation/.venv/bin/activateasdasdasdsadasddasasdasd
